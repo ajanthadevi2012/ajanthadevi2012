@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Research on ML, DL 
 - 📫 How to reach me ap3solutionsresearch@gmail.com
 - All the video description in **60-60-60-Python-Challenge** series by **[Dr. Ajantha Devi](https://in.linkedin.com/ajantha-devi-vairamani-a253a8217/)** 
-- are available @ **[YouTube channel "Demystify with Ajay"](https://studio.youtube.com/channel/UCxXr3E2YkqLXri2sDJ3v-5Q)**
+- are available @ **[YouTube channel "Demystify with Ajay"](https://www.youtube.com/@DemystifywithAjay)**
 
 
 <!---
