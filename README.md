@@ -14,8 +14,14 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />                                                                                              
       <br>Python                                                                                                                                                                                            
-    </td>                                                                                                                                                                                                   
+    </td>                                                                                                                                                                                                                             
     <td align="center" width="96">                                                                                                                                                                          
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />                                                                                                    
+      <br>C++                                                                                                                                                                                               
+    </td>                                                                                                                                                                                                   
+  </tr>                                                                                                                                                                                                     
+  <tr>                                                                                                                                                                                                      
+     <td align="center" width="96">                                                                                                                                                                          
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />                                                                                                             
       <br>PyTorch                                                                                                                                                                                           
     </td>                                                                                                                                                                                                   
@@ -30,12 +36,7 @@
     <td align="center" width="96">                                                                                                                                                                          
       <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />                                                                                                               
       <br>OpenCV                                                                                                                                                                                            
-    </td>                            
-    <td align="center" width="96">                                                                                                                                                                          
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />                                                                                                    
-      <br>C++                                                                                                                                                                                               
-    </td>                                                                                                                                                                                                   
-  </tr>                                                                                                                                                                                                                                                                                                                                                                                          
+    </td>                                                                                                                                                                                           
   <tr>                                                                                                                                                                                                      
     <td align="center" width="96">                              
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -109,6 +110,9 @@
     </td>                                                                                                                                                                                                   
   </tr>                                                                                                                                                                                                     
   </table>                                                                                                                                                                                                  
+  </div>                                                                                                                                                                                                    
+                                     
+  ---                                                                                                                                                                                                     
   </div>                                                                                                                                                                                                    
                                      
   ---    
