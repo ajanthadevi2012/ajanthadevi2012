@@ -46,8 +46,9 @@
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/matplotlib" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+     width="48" height="48" alt="Matplotlib" />
+<br>Matplotlib
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter" />
@@ -107,8 +108,9 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/postgis" width="48" height="48" alt="PostGIS" />
-      <br>PostGIS
+      <img src="https://postgis.net/stuff/postgis-logo.png"
+     width="48" height="48" alt="PostGIS" />
+<br>PostGIS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
