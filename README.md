@@ -31,14 +31,14 @@
       <br>scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
@@ -46,11 +46,11 @@
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />
+      <img src="https://cdn.simpleicons.org/matplotlib" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter" />
       <br>Jupyter
     </td>
   </tr>
@@ -76,19 +76,19 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=geopandas" width="48" height="48" alt="GeoPandas" />
+      <img src="https://cdn.simpleicons.org/geopandas" width="48" height="48" alt="GeoPandas" />
       <br>GeoPandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gdal" width="48" height="48" alt="GDAL" />
+      <img src="https://cdn.simpleicons.org/gdal" width="48" height="48" alt="GDAL" />
       <br>GDAL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=qgis" width="48" height="48" alt="QGIS" />
+      <img src="https://cdn.simpleicons.org/qgis" width="48" height="48" alt="QGIS" />
       <br>QGIS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
+      <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face" />
       <br>Hugging Face
     </td>
   </tr>
@@ -99,7 +99,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -107,7 +107,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgis" width="48" height="48" alt="PostGIS" />
+      <img src="https://cdn.simpleicons.org/postgis" width="48" height="48" alt="PostGIS" />
       <br>PostGIS
     </td>
     <td align="center" width="96">
@@ -134,14 +134,14 @@
       <br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlalchemy" width="48" height="48" alt="SQLAlchemy" />
+      <img src="https://cdn.simpleicons.org/sqlalchemy" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=transformers" width="48" height="48" alt="Transformers" />
+      <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Transformers" />
       <br>Transformers
     </td>
     <td align="center" width="96">
@@ -164,7 +164,7 @@
 
 </table>
 
-<br clear="both">    
+<br clear="both">   
 <!---
 ajanthadevi2012/ajanthadevi2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
