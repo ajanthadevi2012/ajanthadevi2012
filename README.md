@@ -9,7 +9,7 @@
 - --## Tech Stack
 ## Tech Stack
 
-<div align="right">
+<table align="left">
   <table>
 
     <!-- Row 1 — 2 -->
