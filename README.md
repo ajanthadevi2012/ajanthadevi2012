@@ -108,10 +108,10 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://postgis.net/stuff/postgis-logo.png"
-     width="48" height="48" alt="PostGIS" />
-<br>PostGIS
-    </td>
+    <img src="https://postgis.net/stuff/postgis-logo.png"
+         width="48" height="48" alt="PostGIS" />
+    <br>PostGIS
+  </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
