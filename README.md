@@ -1,10 +1,41 @@
-- 👋 Hi, I’m Dr.Ajantha Devi
-- 👀 I’m interested in Knowledge sharing, and research 
-- 🌱 I’m currently learning Transfer learning
-- 💞️ I’m looking to collaborate on Research on ML, DL 
-- 📫 How to reach me ap3solutionsresearch@gmail.com
-- All the video description in **60-60-60-Python-Challenge** series by **[Dr. Ajantha Devi](https://in.linkedin.com/ajantha-devi-vairamani-a253a8217/)** 
-- are available @ **[YouTube channel "Demystify with Ajay"](https://www.youtube.com/@DemystifywithAjay)**
+# 👋 Hi, I'm Dr. Ajantha Devi
+
+Welcome to my GitHub profile!
+
+I am passionate about **knowledge sharing, research, Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
+
+## 👩‍💻 About Me
+
+- 👀 **Interests:** Knowledge sharing and research in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 🌱 **Currently Learning:** Transfer Learning and advanced AI techniques.
+- 💞️ **Looking to Collaborate:** Research projects related to Machine Learning and Deep Learning.
+- 📫 **Reach Me:** [ap3solutionsresearch@gmail.com](mailto:ap3solutionsresearch@gmail.com)
+
+## 🎥 Learning Resources and Video Series
+
+I regularly share learning resources, tutorials, practical implementations, and project-based content related to:
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Science
+- Generative AI
+
+### ▶️ YouTube Channel
+
+For tutorials, practical demonstrations, and AI/ML learning content, visit:
+
+**[Demystify with Ajay](https://www.youtube.com/@DemystifywithAjay)**
+
+### 🔗 Connect with Me
+
+**LinkedIn:** [Dr. Ajantha Devi](https://in.linkedin.com/ajantha-devi-vairamani-a253a8217/)
+
+**Email:** [ap3solutionsresearch@gmail.com](mailto:ap3solutionsresearch@gmail.com)
+
+---
 
                              
 ## Tech Stack
